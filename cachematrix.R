@@ -69,7 +69,7 @@ cacheSolve <- function(x, ...) {
 #   the inverse of the matrix should be returned
 #           cacheSolve(z)
 
-#pass the list z to thte cacheSolve() function a second time
+#pass the list z to the cacheSolve() function a second time
 #  the inverse of the matrix should be returned
 #  also a message "retrieving inverse from cache" indicating that the inverse
 #  is not being calculated this time but is being retrieved from the cached
